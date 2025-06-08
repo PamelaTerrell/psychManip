@@ -64,7 +64,10 @@ const Home = () => {
         <h2>Featured Topics</h2>
         <div className="topics-grid">
           <Link to="/topics/narcissism" className="topic-card">Narcissism</Link>
+          
           <Link to="/topics/gaslighting" className="topic-card">Gaslighting</Link>
+          <Link to="/topics/triangulation" className="topic-card">Triangulation</Link>
+
           <Link to="/topics/trauma-bonding" className="topic-card">Trauma Bonding</Link>
           <Link to="/topics/emotional-coercion" className="topic-card">Emotional Coercion</Link>
         </div>

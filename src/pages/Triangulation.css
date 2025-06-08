@@ -1,0 +1,26 @@
+.triangulation-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: 'Lora', serif;
+    line-height: 1.6;
+    color: #1e2a38;
+    background-color: #fff;
+  }
+  
+  .triangulation-page h1,
+  .triangulation-page h2 {
+    font-family: 'Merriweather', serif;
+    color: #1e2a38;
+    margin-top: 1.5rem;
+  }
+  
+  .triangulation-page ul {
+    padding-left: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .triangulation-page li {
+    margin-bottom: 0.75rem;
+  }
+  

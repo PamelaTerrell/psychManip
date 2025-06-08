@@ -11,6 +11,9 @@ import Gaslighting from './pages/topics/Gaslighting';
 import TraumaBonding from './pages/topics/TraumaBonding';
 import EmotionalCoercion from './pages/topics/EmotionalCoercion';
 
+// Triangulation moved to pages folder
+import Triangulation from './pages/topics/Triangulation';
+
 import './App.css';
 
 function App() {
@@ -22,12 +25,15 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/topics" element={<Topics />} />
-          
+
           {/* Topic detail pages */}
           <Route path="/topics/narcissism" element={<Narcissism />} />
           <Route path="/topics/gaslighting" element={<Gaslighting />} />
           <Route path="/topics/trauma-bonding" element={<TraumaBonding />} />
           <Route path="/topics/emotional-coercion" element={<EmotionalCoercion />} />
+
+          <Route path="/topics/triangulation" element={<Triangulation />} />
+
         </Routes>
       </div>
     </Router>

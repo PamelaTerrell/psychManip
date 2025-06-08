@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Topics.css'; // Optional: for styling
+import './Topics.css'; 
 
 const Topics = () => {
   return (
@@ -13,6 +13,7 @@ const Topics = () => {
       <div className="topics-grid">
         <Link to="/topics/narcissism" className="topic-card">Narcissism</Link>
         <Link to="/topics/gaslighting" className="topic-card">Gaslighting</Link>
+        <Link to="/topics/triangulation" className="topic-card">Triangulation in Romantic Relationships</Link>
         <Link to="/topics/trauma-bonding" className="topic-card">Trauma Bonding</Link>
         <Link to="/topics/emotional-coercion" className="topic-card">Emotional Coercion</Link>
       </div>
