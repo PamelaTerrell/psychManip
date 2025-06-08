@@ -18,7 +18,7 @@ const Navbar = () => {
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/topics">Topics</Link>
-        <Link to="/blog">Blog</Link>
+        
       </div>
       <div className="navbar-toggle" onClick={toggleMobileMenu}>
         ☰

@@ -1,0 +1,23 @@
+.about-container {
+    font-family: 'Lora', serif;
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 0 1.5rem;
+    color: #1e2a38;
+    line-height: 1.6;
+  }
+  
+  .about-container h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    margin-bottom: 1.2rem;
+    text-align: center;
+    color: #16222a;
+  }
+  
+  .about-container p {
+    font-size: 1.1rem;
+    margin-bottom: 1.2rem;
+    color: #333;
+  }
+  
