@@ -16,12 +16,29 @@ const Home = () => {
 
       {/* Introduction Section */}
       <section className="intro">
-        <h2>Why This Site Exists</h2>
-        <p>
-          This site was created by Pamela Terrell, B.A. in Sociology, to explore the often hidden
-          mechanisms of psychological manipulation. With a scholarly lens on topics like narcissistic
-          abuse and social influence, our aim is to inform, educate, and empower.
-        </p>
+        <div className="intro-flex">
+          <div className="intro-text">
+            <h2>Why This Site Exists</h2>
+            <p>
+    This site was created by Pamela Terrell, B.A. in Sociology, to explore the often hidden
+    mechanisms of psychological manipulation. With a scholarly lens on topics like narcissistic
+    abuse and social influence, our aim is to inform, educate, and empower.
+  </p>
+  <p>
+    Psychological manipulation can be subtle and complex, often leaving victims feeling confused or
+    trapped. By breaking down these behaviors—such as narcissism, gaslighting, trauma bonding, and emotional coercion—this platform seeks to shed light on the tactics used and the effects they have on individuals and society.
+  </p>
+  <p>
+    Understanding these concepts is crucial for recognizing manipulation in everyday life, improving
+    personal relationships, and fostering resilience against psychological abuse.
+  </p>
+          </div>
+          <img
+            src="/images/control.jpg"
+            alt="Representation of psychological control"
+            className="intro-image"
+          />
+        </div>
       </section>
 
       {/* Featured Topics Section */}
