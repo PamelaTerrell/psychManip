@@ -20,24 +20,42 @@ const Home = () => {
           <div className="intro-text">
             <h2>Why This Site Exists</h2>
             <p>
-    This site was created by Pamela Terrell, B.A. in Sociology, to explore the often hidden
-    mechanisms of psychological manipulation. With a scholarly lens on topics like narcissistic
-    abuse and social influence, our aim is to inform, educate, and empower.
-  </p>
-  <p>
-    Psychological manipulation can be subtle and complex, often leaving victims feeling confused or
-    trapped. By breaking down these behaviors—such as narcissism, gaslighting, trauma bonding, and emotional coercion—this platform seeks to shed light on the tactics used and the effects they have on individuals and society.
-  </p>
-  <p>
-    Understanding these concepts is crucial for recognizing manipulation in everyday life, improving
-    personal relationships, and fostering resilience against psychological abuse.
-  </p>
+              This site was created by Pamela Terrell, B.A. in Sociology, to explore the often hidden
+              mechanisms of psychological manipulation. With a scholarly lens on topics like narcissistic
+              abuse and social influence, our aim is to inform, educate, and empower.
+            </p>
+            <p>
+              Psychological manipulation can be subtle and complex, often leaving victims feeling confused or
+              trapped. By breaking down these behaviors—such as narcissism, gaslighting, trauma bonding, and emotional coercion—this platform seeks to shed light on the tactics used and the effects they have on individuals and society.
+            </p>
+            <p>
+              Understanding these concepts is crucial for recognizing manipulation in everyday life, improving
+              personal relationships, and fostering resilience against psychological abuse.
+            </p>
           </div>
-          <img
-            src="/images/control.jpg"
-            alt="Representation of psychological control"
-            className="intro-image"
-          />
+          <div>
+            <img
+              src="/images/control.jpg"
+              alt="Representation of psychological control"
+              className="intro-image"
+            />
+            <p className="image-credit">
+              Photo by{' '}
+              <a 
+                href="https://unsplash.com/@agni11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+                target="_blank" rel="noopener noreferrer"
+              >
+                Sivani Bandaru
+              </a>{' '}
+              on{' '}
+              <a
+                href="https://unsplash.com/photos/2-men-playing-basketball-in-grayscale-photography-bczrpU9n8f4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
+                target="_blank" rel="noopener noreferrer"
+              >
+                Unsplash
+              </a>
+            </p>
+          </div>
         </div>
       </section>
 
