@@ -1,0 +1,41 @@
+.topics-page {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+    font-family: 'Lora', serif;
+  }
+  
+  .topics-page h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-family: 'Merriweather', serif;
+  }
+  
+  .topics-page p {
+    margin-bottom: 2rem;
+    font-size: 1.1rem;
+    color: #444;
+  }
+  
+  .topics-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .topic-card {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #1e2a38;
+    font-weight: bold;
+    flex: 1 1 200px;
+    text-align: center;
+    transition: background 0.3s ease;
+  }
+  
+  .topic-card:hover {
+    background-color: #e1e1e1;
+  }
+  

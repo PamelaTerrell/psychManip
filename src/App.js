@@ -4,6 +4,13 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Navbar from './components/Navbar';
 import Topics from './pages/Topics';
+
+// Topic detail pages
+import Narcissism from './pages/topics/Narcissism';
+import Gaslighting from './pages/topics/Gaslighting';
+import TraumaBonding from './pages/topics/TraumaBonding';
+import EmotionalCoercion from './pages/topics/EmotionalCoercion';
+
 import './App.css';
 
 function App() {
@@ -15,7 +22,12 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/topics" element={<Topics />} />
-          {/* Future routes go here */}
+          
+          {/* Topic detail pages */}
+          <Route path="/topics/narcissism" element={<Narcissism />} />
+          <Route path="/topics/gaslighting" element={<Gaslighting />} />
+          <Route path="/topics/trauma-bonding" element={<TraumaBonding />} />
+          <Route path="/topics/emotional-coercion" element={<EmotionalCoercion />} />
         </Routes>
       </div>
     </Router>
