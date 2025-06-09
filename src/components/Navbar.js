@@ -18,6 +18,10 @@ const Navbar = () => {
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/topics">Topics</Link>
+        <Link to="/control">Psychology of Control</Link>
+        <Link to="/types-of-manipulators">Types of Manipulators</Link>
+
+
         
       </div>
       <div className="navbar-toggle" onClick={toggleMobileMenu}>

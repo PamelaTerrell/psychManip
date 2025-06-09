@@ -10,9 +10,10 @@ import Narcissism from './pages/topics/Narcissism';
 import Gaslighting from './pages/topics/Gaslighting';
 import TraumaBonding from './pages/topics/TraumaBonding';
 import EmotionalCoercion from './pages/topics/EmotionalCoercion';
-
-// Triangulation moved to pages folder
+import Control from './pages/Control';
 import Triangulation from './pages/topics/Triangulation';
+import TypesOfManipulators from './pages/TypesOfManipulators';
+
 
 import './App.css';
 
@@ -31,8 +32,11 @@ function App() {
           <Route path="/topics/gaslighting" element={<Gaslighting />} />
           <Route path="/topics/trauma-bonding" element={<TraumaBonding />} />
           <Route path="/topics/emotional-coercion" element={<EmotionalCoercion />} />
+          <Route path="/control" element={<Control />} />
 
           <Route path="/topics/triangulation" element={<Triangulation />} />
+          <Route path="/types-of-manipulators" element={<TypesOfManipulators />} />
+
 
         </Routes>
       </div>
