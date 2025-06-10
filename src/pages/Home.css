@@ -134,6 +134,24 @@
     border: 1px solid #ccc;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
+
+  .secret-link {
+    text-align: right;
+    font-size: 0.9rem;
+    margin: 12px 0 24px;
+  }
+  
+  .secret-link a {
+    color: #777;
+    text-decoration: underline;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .secret-link a:hover {
+    color: #b71c1c; /* dark red for subtle attention */
+  }
+  
   
   /* Responsive layout for tablets and up */
   @media screen and (min-width: 768px) {

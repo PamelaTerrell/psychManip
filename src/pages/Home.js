@@ -7,16 +7,12 @@ const Home = () => {
     <div className="home-container">
       {/* Hero Section */}
       <section className="hero">
-  <h1>Psychological Manipulation</h1>
-  <p className="subheadline">
-    Understanding narcissism, gaslighting, coercion, and the psychology of control.
-  </p>
-  
- 
-
-  <Link to="/topics" className="cta-button">Explore Topics</Link>
-</section>
-
+        <h1>Psychological Manipulation</h1>
+        <p className="subheadline">
+          Understanding narcissism, gaslighting, coercion, and the psychology of control.
+        </p>
+        <Link to="/topics" className="cta-button">Explore Topics</Link>
+      </section>
 
       {/* Introduction Section */}
       <section className="intro">
@@ -45,7 +41,7 @@ const Home = () => {
             />
             <p className="image-credit">
               Photo by{' '}
-              <a 
+              <a
                 href="https://unsplash.com/@agni11?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"
                 target="_blank" rel="noopener noreferrer"
               >
@@ -64,20 +60,23 @@ const Home = () => {
       </section>
 
       <p className="definition">
-    <strong>Manipulation</strong> is the act of influencing someone’s thoughts, emotions, or behaviors 
-    through deceptive, exploitative, or coercive tactics — often without the person’s awareness. It 
-    involves control that undermines autonomy, using guilt, fear, or flattery to gain power.
-  </p>
+        <strong>Manipulation</strong> is the act of influencing someone’s thoughts, emotions, or behaviors
+        through deceptive, exploitative, or coercive tactics — often without the person’s awareness. It
+        involves control that undermines autonomy, using guilt, fear, or flattery to gain power.
+      </p>
+
+      {/* Secret link for narcissists */}
+      <div className="secret-link">
+        <Link to="/message">What if you see yourself in this?</Link>
+      </div>
 
       {/* Featured Topics Section */}
       <section className="topics-preview">
         <h2>Featured Topics</h2>
         <div className="topics-grid">
           <Link to="/topics/narcissism" className="topic-card">Narcissism</Link>
-          
           <Link to="/topics/gaslighting" className="topic-card">Gaslighting</Link>
           <Link to="/topics/triangulation" className="topic-card">Triangulation</Link>
-
           <Link to="/topics/trauma-bonding" className="topic-card">Trauma Bonding</Link>
           <Link to="/topics/emotional-coercion" className="topic-card">Emotional Coercion</Link>
         </div>

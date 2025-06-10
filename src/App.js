@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Navbar from './components/Navbar';
 import Topics from './pages/Topics';
+import Message from './pages/Message';
 
 // Topic detail pages
 import Narcissism from './pages/topics/Narcissism';
@@ -27,7 +28,8 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/topics" element={<Topics />} />
 
-          {/* Topic detail pages */}
+          <Route path="/message" element={<Message />} />
+
           <Route path="/topics/narcissism" element={<Narcissism />} />
           <Route path="/topics/gaslighting" element={<Gaslighting />} />
           <Route path="/topics/trauma-bonding" element={<TraumaBonding />} />
