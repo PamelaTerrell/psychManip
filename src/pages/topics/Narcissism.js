@@ -116,6 +116,62 @@ const Narcissism = () => {
           <strong> “hoovering”</strong> — trying to draw the person back in, only to repeat the cycle.
         </p>
       </section>
+
+    {/* Can Narcissists Love? */}
+<section>
+  <h2>Can Narcissists Love?</h2>
+  <p>
+    One of the most painful realities for those in relationships with narcissists is the realization
+    that the narcissist may be emotionally incapable of genuine love. While narcissists may express
+    affection or claim to love others, their understanding of love is often transactional — based on
+    what they can gain from the relationship.
+  </p>
+
+  <p>
+    Because of their lack of empathy and deep emotional insecurity, narcissists typically struggle to
+    form authentic, mutual bonds. Their relationships often revolve around control, validation, and
+    admiration rather than emotional connection. They may mimic love during the idealization phase
+    (such as in love bombing), but this behavior usually serves their own needs rather than reflecting
+    true emotional intimacy.
+  </p>
+
+  <p>
+    This emotional limitation makes it difficult for narcissists to sustain healthy long-term
+    relationships, as they often view people as tools for self-enhancement rather than as equals with
+    feelings and needs of their own.
+  </p>
+</section>
+
+{/* Narcissism and Aging */}
+<section>
+  <h2>Narcissism and Aging</h2>
+  <p>
+    Aging can be particularly challenging for narcissists. As they grow older, many of the qualities
+    they rely on — physical appearance, career status, social influence — begin to fade. This can lead
+    to a profound identity crisis, as their self-worth is often externally defined.
+  </p>
+
+  <p>
+    Some narcissists become increasingly bitter, isolated, or depressed as their ability to attract
+    admiration declines. They may struggle with rage, jealousy, or a heightened sense of victimhood.
+    Others may double down on manipulative behaviors in a desperate attempt to regain control or
+    attention.
+  </p>
+
+  <p>
+    In rare cases, a narcissist may gain some self-awareness later in life, especially if faced with
+    major losses, loneliness, or mental health struggles. However, true change is difficult without
+    consistent therapeutic intervention — and many remain emotionally rigid and resistant to
+    introspection.
+  </p>
+
+  <p>
+    Ultimately, aging often exposes the emotional emptiness behind the narcissistic façade, leading
+    to increased psychological distress and diminished relationships.
+  </p>
+</section>
+
+
     </div>
   );
 };
