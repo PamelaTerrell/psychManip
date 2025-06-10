@@ -7,12 +7,20 @@ const Home = () => {
     <div className="home-container">
       {/* Hero Section */}
       <section className="hero">
-        <h1>Psychological Manipulation</h1>
-        <p className="subheadline">
-          Understanding narcissism, gaslighting, coercion, and the psychology of control.
-        </p>
-        <Link to="/topics" className="cta-button">Explore Topics</Link>
-      </section>
+  <h1>Psychological Manipulation</h1>
+  <p className="subheadline">
+    Understanding narcissism, gaslighting, coercion, and the psychology of control.
+  </p>
+  
+  <p className="definition">
+    <strong>Manipulation</strong> is the act of influencing someone’s thoughts, emotions, or behaviors 
+    through deceptive, exploitative, or coercive tactics — often without the person’s awareness. It 
+    involves control that undermines autonomy, using guilt, fear, or flattery to gain power.
+  </p>
+
+  <Link to="/topics" className="cta-button">Explore Topics</Link>
+</section>
+
 
       {/* Introduction Section */}
       <section className="intro">

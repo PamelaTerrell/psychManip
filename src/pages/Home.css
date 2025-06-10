@@ -22,6 +22,19 @@
     color: #555;
     margin-bottom: 1.5rem;
   }
+
+  .definition {
+    background-color: #f0f4f8; /* light, calming background */
+    border-left: 4px solid #0077cc; /* subtle blue accent line */
+    padding: 1rem 1.5rem;
+    margin: 1rem 0 2rem 0;
+    font-style: italic;
+    color: #333;
+    font-size: 1.1rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  }
+  
   
   .cta-button {
     background-color: #1e2a38;
