@@ -8,3 +8,21 @@ body {
   padding: 2rem;
   margin-top: 60px; /* Adjust if navbar height changes */
 }
+
+/* App.css or global.css */
+.tactic-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tactic-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.icon {
+  margin-right: 8px;
+  color: #d9534f;
+  min-width: 20px;
+}
