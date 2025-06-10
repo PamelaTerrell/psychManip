@@ -1,13 +1,12 @@
 import React from 'react';
 
-
 const Triangulation = () => {
   return (
     <div className="triangulation-page">
       <h1>Triangulation in Romantic Relationships</h1>
 
       <p>
-        Triangulation is a psychological manipulation tactic in which a person draws a third party into the relationship dynamic to control, divide, or destabilize others. In the context of romantic relationships, it is frequently used to provoke jealousy, create rivalry, or avoid direct communication—often resulting in confusion, emotional harm, and dependency.
+        Triangulation is a psychological manipulation tactic in which a person draws a third party into the relationship dynamic to control, divide, or destabilize others. In romantic relationships, it is frequently used to provoke jealousy, create rivalry, or avoid direct communication—often resulting in confusion, emotional harm, and dependency.
       </p>
 
       <h2>What Does Triangulation Look Like?</h2>
@@ -16,22 +15,21 @@ const Triangulation = () => {
       </p>
 
       <p>
-        For example, a narcissist might frequently reference an ex in flattering terms (“They understood me in a way you never do”), or seek sympathy from a mutual friend by painting their partner as unstable or overly sensitive. This not only destabilizes the targeted partner emotionally but can also manipulate the third party into forming a biased view, often unknowingly contributing to the cycle of abuse.
+        For example, a narcissist might frequently reference an ex in flattering terms (“They understood me in a way you never do”), or seek sympathy from a mutual friend by painting their partner as unstable or overly sensitive. This not only destabilizes the targeted partner emotionally but also manipulates the third party into forming a biased view, often unknowingly contributing to the cycle of abuse.
       </p>
 
+      <h2>Triangulation and Narcissism</h2>
       <p>
-        The result is a dynamic where the partner feels isolated, insecure, or even pitted against someone they don’t fully understand. At the same time, the third party may become an unwitting enabler—used as leverage, validation, or even a replacement—without being fully aware of the harm being done.
+        Triangulation is a favorite tactic of narcissists because it reinforces their need for control, admiration, and superiority. Narcissists thrive on attention and competition, and triangulation serves as a tool to keep others off-balance and seeking their approval.
       </p>
-
-      <h2>Why Is Triangulation Used?</h2>
       <p>
-        Triangulation serves multiple purposes for the manipulator. It allows them to:
+        Narcissists often use triangulation to:
       </p>
       <ul>
-        <li><strong>Deflect accountability:</strong> Blame is shifted, and direct communication is avoided.</li>
-        <li><strong>Control perception:</strong> By controlling the narrative shared with each party, the manipulator maintains power.</li>
-        <li><strong>Induce insecurity:</strong> The target often questions their worth and becomes more emotionally dependent.</li>
-        <li><strong>Divide and conquer:</strong> Prevents unity or resistance between the manipulated individuals.</li>
+        <li>Keep romantic partners competing for validation or affection</li>
+        <li>Avoid taking responsibility by blaming or misrepresenting others</li>
+        <li>Create dependency by destabilizing the partner’s self-worth</li>
+        <li>Boost their own ego by making others feel replaceable or less desirable</li>
       </ul>
 
       <h2>Examples of Triangulation</h2>
@@ -40,28 +38,47 @@ const Triangulation = () => {
         <li>They tell you, “Everyone agrees you overreact,” without naming anyone specifically.</li>
         <li>They flirt with others in front of you and call you “jealous” when you express discomfort.</li>
         <li>They encourage competition between you and another person for their approval or attention.</li>
+        <li>They quote what a friend or family member supposedly said to back up their hurtful point of view.</li>
       </ul>
+
+      <h2>Emotional Red Flags</h2>
+      <p>You may be experiencing triangulation if you feel:</p>
+      <ul>
+        <li>Constantly compared to others (exes, siblings, coworkers)</li>
+        <li>Insecure, inadequate, or like you're “not measuring up”</li>
+        <li>Like you must compete for attention, affection, or validation</li>
+        <li>Excluded from conversations or denied clarification when confused</li>
+        <li>Gaslit when you try to express discomfort (“You’re imagining things”)</li>
+      </ul>
+
+      <h2>A Brief Example</h2>
+      <p>
+        Maria was in a relationship with Alex, who often mentioned his “perfect” ex, saying things like, “She never complained about my job.” When Maria expressed hurt, Alex accused her of insecurity. Meanwhile, he told a mutual friend that Maria was becoming overly emotional and hard to deal with. The friend unknowingly began siding with Alex, leaving Maria isolated and confused about her own reactions.
+      </p>
 
       <h2>Effects on the Target and the Third Party</h2>
       <p>
         The person being targeted may experience anxiety, jealousy, shame, and self-doubt. Over time, triangulation erodes self-esteem and reinforces emotional dependency on the manipulator. It also isolates the target, who may feel unable to trust the third party or speak openly without being dismissed or gaslit.
       </p>
-
       <p>
         The third party—who may be unaware of the manipulation—can be weaponized as a “flying monkey,” giving false validation or acting as a buffer. This enables the manipulator while deepening the dysfunction and emotional confusion for all involved.
       </p>
 
       <h2>How to Recognize and Respond</h2>
       <ul>
-        <li><strong>Recognize patterns:</strong> Pay attention to repeated involvement of others in personal conflicts or comparisons.</li>
-        <li><strong>Avoid competing:</strong> Refuse to engage in rivalry or seek approval that is being intentionally withheld.</li>
-        <li><strong>Set clear boundaries:</strong> Express that you will not tolerate triangulating behavior or third-party commentary.</li>
-        <li><strong>Seek clarity independently:</strong> Talk directly with others instead of relying on secondhand claims.</li>
-        <li><strong>Protect your perspective:</strong> Therapy or journaling can help you sort reality from distortion.</li>
+        <li><strong>Recognize patterns:</strong> Notice repeated involvement of others in your private issues or comparisons being made.</li>
+        <li><strong>Don’t take the bait:</strong> Avoid reacting emotionally to provoked jealousy or rivalry.</li>
+        <li><strong>Set strong boundaries:</strong> Make it clear you will not participate in manipulative comparisons or hearsay.</li>
+        <li><strong>Clarify directly:</strong> Communicate openly with others instead of relying on filtered messages from the manipulator.</li>
+        <li><strong>Validate your experience:</strong> Journaling or therapy can help you reconnect with your intuition and reality.</li>
       </ul>
 
+      <h2>Healing from Triangulation</h2>
       <p>
-        Understanding triangulation is a critical step in breaking free from emotional manipulation. Whether you are the target or the unwitting third party, awareness and boundaries are key to dismantling the dynamic and restoring healthy communication.
+        Healing involves learning to trust yourself again. Recognize that manipulation was used to distort your reality—not a reflection of your value. If you've been the third party, reflect on how you may have been used, and take steps to support truth and direct communication going forward.
+      </p>
+      <p>
+        Education, boundary work, and support from a therapist or trusted network can help dismantle the lingering effects of triangulation and empower you to move forward with clarity and self-respect.
       </p>
     </div>
   );
