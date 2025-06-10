@@ -24,16 +24,20 @@
   }
 
   .definition {
-    background-color: #f0f4f8; /* light, calming background */
-    border-left: 4px solid #0077cc; /* subtle blue accent line */
-    padding: 1rem 1.5rem;
-    margin: 1rem 0 2rem 0;
-    font-style: italic;
-    color: #333;
-    font-size: 1.1rem;
-    border-radius: 4px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    background-color: #1a1a1a;      /* very dark background for seriousness */
+    color: #d9d9d9;                 /* light gray text for contrast */
+    border-left: 6px solid #b22222; /* deep crimson accent to signal warning */
+    padding: 1.2rem 1.8rem;
+    margin: 1.5rem 0 2.5rem 0;
+    font-family: 'Georgia', serif;  /* classic, scholarly font */
+    font-size: 1.15rem;
+    font-style: normal;
+    line-height: 1.6;
+    box-shadow: 0 0 10px rgba(178, 34, 34, 0.5); /* subtle red glow for ominous effect */
+    border-radius: 5px;
+    user-select: text;              /* allows easy copying */
   }
+  
   
   
   .cta-button {
