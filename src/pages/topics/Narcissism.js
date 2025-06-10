@@ -16,6 +16,31 @@ const Narcissism = () => {
         of narcissism — particularly in the context of interpersonal relationships and manipulation.
       </p>
 
+      <p>
+    Despite their outward confidence or entitlement, narcissists are often deeply insecure. Their grandiosity
+    and need for admiration are coping mechanisms to mask fragile self-esteem and unresolved feelings of shame
+    or inadequacy. This internal instability makes them highly sensitive to criticism, easily threatened, and
+    prone to manipulative or defensive behavior.
+    </p>
+
+    <section>
+  <h2>The Insecure Core</h2>
+  <p>
+    Beneath the surface, narcissists are not as self-assured as they appear. Their inflated ego often serves
+    to protect a fragile inner world filled with insecurity, self-doubt, and an intense fear of being exposed
+    as inadequate. This vulnerability is rarely visible — even to the narcissist themselves — because it’s
+    buried beneath layers of defensiveness, denial, and projection.
+  </p>
+  <p>
+    This internal fragility makes them hypersensitive to rejection or criticism, no matter how minor. As a result,
+    they may lash out, blame others, or distort reality to preserve their fragile self-image. Their behavior is not
+    driven by strength, but by the fear of being seen as weak or unworthy.
+  </p>
+</section>
+
+
+
+
       {/* Causes of Narcissism */}
       <section>
         <h2>Causes of Narcissism</h2>
@@ -31,6 +56,13 @@ const Narcissism = () => {
           Early childhood experiences, such as neglect or excessive praise, can shape narcissistic traits. These responses
           may develop as a coping mechanism to manage deep-seated insecurity or low self-worth.
         </p>
+
+        <p>
+        In many cases, narcissistic traits develop as a psychological shield against deep-seated insecurity or emotional
+        neglect. The grandiose self-image they construct becomes a way to protect themselves from painful feelings
+        of worthlessness, vulnerability, or abandonment that may have taken root early in life.
+        </p>
+
 
         <h3>2. Parenting Styles</h3>
         <p>
@@ -50,6 +82,7 @@ const Narcissism = () => {
           behaviors by encouraging constant comparison, external validation, and curated personas.
         </p>
       </section>
+
 
       {/* Types of Narcissism */}
       <section>
