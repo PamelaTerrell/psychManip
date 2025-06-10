@@ -14,6 +14,9 @@ const About = () => {
         We believe that education is a powerful tool for awareness and healing, and this platform aims to serve as a reliable resource for anyone interested in the social and psychological aspects of manipulation.
       </p>
     </div>
+
+    
+
   );
 };
 

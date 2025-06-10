@@ -12,11 +12,7 @@ const Home = () => {
     Understanding narcissism, gaslighting, coercion, and the psychology of control.
   </p>
   
-  <p className="definition">
-    <strong>Manipulation</strong> is the act of influencing someone’s thoughts, emotions, or behaviors 
-    through deceptive, exploitative, or coercive tactics — often without the person’s awareness. It 
-    involves control that undermines autonomy, using guilt, fear, or flattery to gain power.
-  </p>
+ 
 
   <Link to="/topics" className="cta-button">Explore Topics</Link>
 </section>
@@ -66,6 +62,12 @@ const Home = () => {
           </div>
         </div>
       </section>
+
+      <p className="definition">
+    <strong>Manipulation</strong> is the act of influencing someone’s thoughts, emotions, or behaviors 
+    through deceptive, exploitative, or coercive tactics — often without the person’s awareness. It 
+    involves control that undermines autonomy, using guilt, fear, or flattery to gain power.
+  </p>
 
       {/* Featured Topics Section */}
       <section className="topics-preview">
