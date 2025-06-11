@@ -80,6 +80,14 @@ const Triangulation = () => {
       <p>
         Education, boundary work, and support from a therapist or trusted network can help dismantle the lingering effects of triangulation and empower you to move forward with clarity and self-respect.
       </p>
+
+      <section className="quote-section">
+        <blockquote>
+        “You’ll never understand how someone could do this to you, because you would never do it to them.”
+        — Unknown
+        </blockquote>
+      </section>
+
     </div>
   );
 };

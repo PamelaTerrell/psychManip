@@ -87,6 +87,14 @@ const TraumaBonding = () => {
           and consistent boundaries are key to breaking free and rebuilding your sense of identity.
         </p>
       </section>
+
+      <section className="quote-section">
+        <blockquote>
+        “It wasn’t love that kept you there—it was the hope that love would return.”
+        </blockquote>
+      </section>
+
+
     </div>
   );
 };
