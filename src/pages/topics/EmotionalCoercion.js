@@ -74,6 +74,13 @@ const EmotionalCoercion = () => {
         Recovery starts with awareness. You are not responsible for someone else’s manipulation. Set
         boundaries, talk to someone you trust, and consider therapy to unpack deeper emotional effects.
       </p>
+
+      <section className="quote-section">
+        <blockquote>
+          “Silence after harm is a form of psychological control.” - Dr. Ramani Durvasula
+        </blockquote>
+      </section>
+
     </div>
   );
 };
