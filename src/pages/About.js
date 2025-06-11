@@ -35,6 +35,14 @@ const About = () => {
       <p className="disclaimer">
         <strong>Note:</strong> This site is for educational purposes only and is not a substitute for professional mental health support.
       </p>
+
+      <section className="quote-section">
+        <blockquote>
+        “The truth will set you free, but first it will piss you off.”
+        — Gloria Steinem
+        </blockquote>
+      </section>
+
     </div>
   );
 };
