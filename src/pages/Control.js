@@ -112,6 +112,13 @@ const Control = () => {
           <li><em>Psychopath Free</em> – Jackson MacKenzie</li>
         </ul>
       </section>
+
+      <section className="quote-section">
+        <blockquote>
+        “They don’t want love. They want control—and they’ll hurt you to get it.”
+        </blockquote>
+      </section>
+
     </div>
   );
 };
