@@ -204,6 +204,12 @@ const Narcissism = () => {
   </p>
 </section>
 
+<section className="quote-section">
+        <blockquote>
+        “You can't water plastic flowers and expect them to grow. Some people simply don't have what you're looking for.”
+        — Unknown
+        </blockquote>
+      </section>
 
     </div>
   );
