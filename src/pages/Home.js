@@ -40,7 +40,7 @@ const Home = () => {
             </p>
             <p>
               Psychological manipulation can be subtle and complex, often leaving victims feeling confused or
-              trapped. By breaking down these behaviors—such as narcissism, gaslighting, trauma bonding, and emotional coercion—this platform seeks to shed light on the tactics used and the effects they have on individuals and society.
+              trapped. By breaking down these behaviors—such as narcissism, gaslighting, trauma bonding, emotional coercion, and hoovering—this platform seeks to shed light on the tactics used and the effects they have on individuals and society.
             </p>
             <p>
               Understanding these concepts is crucial for recognizing manipulation in everyday life, improving
@@ -99,6 +99,7 @@ const Home = () => {
           <Link to="/topics/triangulation" className="topic-card">Triangulation</Link>
           <Link to="/topics/trauma-bonding" className="topic-card">Trauma Bonding</Link>
           <Link to="/topics/emotional-coercion" className="topic-card">Emotional Coercion</Link>
+          <Link to="/topics/hoovering" className="topic-card">Hoovering</Link> {/* New topic */}
         </div>
       </section>
 

@@ -22,6 +22,7 @@ const Topics = () => {
         <Link to="/topics/triangulation" className="topic-card">Triangulation in Romantic Relationships</Link>
         <Link to="/topics/trauma-bonding" className="topic-card">Trauma Bonding</Link>
         <Link to="/topics/emotional-coercion" className="topic-card">Emotional Coercion</Link>
+        <Link to="/topics/hoovering" className="topic-card">Hoovering</Link> {/* New link for Hoovering */}
       </div>
 
       <section className="quote-section">
