@@ -25,6 +25,24 @@ const Hoovering = () => {
         <li><strong>Lack of Empathy:</strong> Hoovering doesn't take into account the victim’s emotional state or well-being. For the narcissist, the victim is simply a tool to regain control or to provide the emotional validation they crave. They may use hoovering to reassert dominance without regard for the emotional damage it causes.</li>
       </ul>
 
+      <h2>Examples of Hoovering on Social Media</h2>
+<p>
+  Social media has become a common platform for hoovering, allowing manipulators to reach their victims in subtle or dramatic ways. Here are some examples of how hoovering might look online:
+</p>
+<ul>
+  <li><strong>Sudden Likes or Comments on Old Posts:</strong> A manipulator may "like" or comment on photos or posts from months or even years ago to get the victim’s attention and spark a reaction.</li>
+  <li><strong>Posting Vague, Emotional Status Updates:</strong> They might post cryptic or emotional messages (e.g., "Some people don't realize what they’ve lost until it’s too late") to make the victim feel guilty or compelled to reach out.</li>
+  <li><strong>Using Shared Memories or Tags:</strong> They might reshare old photos or "memories" where the victim was tagged, often adding captions like “Miss these days 💔” to lure the victim back in emotionally.</li>
+  <li><strong>Creating Fake Profiles:</strong> Some manipulators create new or fake accounts to stalk, message, or test boundaries with the victim anonymously.</li>
+  <li><strong>Sending Direct Messages Out of Nowhere:</strong> After weeks or months of no contact, the manipulator might message something like “Hey, I saw something that reminded me of you,” attempting to reopen the door to communication.</li>
+  <li><strong>Apologizing Publicly:</strong> Posting public apologies, declarations of love, or exaggerated remorse on the victim’s timeline or via shared friends to manipulate sympathy.</li>
+  <li><strong>Mutual Friends and Indirect Messages:</strong> They may contact mutual friends to “pass along” messages or make public comments that are clearly aimed at the victim, even if not directly tagged.</li>
+</ul>
+<p>
+  These online tactics are designed to bypass boundaries and rekindle contact. It's important to recognize these behaviors as hoovering and avoid engaging with them.
+</p>
+
+
       <h2>Common Hoovering Tactics</h2>
       <p>
         Manipulators and narcissists are skilled at knowing how to manipulate others, and their tactics are often disguised as genuine concern or care. Here are some common hoovering tactics:
