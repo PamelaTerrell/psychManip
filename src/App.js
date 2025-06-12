@@ -14,6 +14,7 @@ import EmotionalCoercion from './pages/topics/EmotionalCoercion';
 import Control from './pages/Control';
 import Triangulation from './pages/topics/Triangulation';
 import Hoovering from './pages/topics/Hoovering';
+import SexandNarcissism from './pages/topics/SexandNarcissism';
 import TypesOfManipulators from './pages/TypesOfManipulators';
 
 
@@ -36,7 +37,7 @@ function App() {
           <Route path="/topics/trauma-bonding" element={<TraumaBonding />} />
           <Route path="/topics/emotional-coercion" element={<EmotionalCoercion />} />
           <Route path="/topics/hoovering" element={<Hoovering />} />
-
+          <Route path="/topics/sex-and-narcissism" element={<SexandNarcissism />} />
           <Route path="/control" element={<Control />} />
           <Route path="/message" element={<Message />} />
           <Route path="/topics/triangulation" element={<Triangulation />} />
