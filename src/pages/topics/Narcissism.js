@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Narcissism = () => {
   return (
@@ -17,29 +18,26 @@ const Narcissism = () => {
       </p>
 
       <p>
-    Despite their outward confidence or entitlement, narcissists are often deeply insecure. Their grandiosity
-    and need for admiration are coping mechanisms to mask fragile self-esteem and unresolved feelings of shame
-    or inadequacy. This internal instability makes them highly sensitive to criticism, easily threatened, and
-    prone to manipulative or defensive behavior.
-    </p>
+        Despite their outward confidence or entitlement, narcissists are often deeply insecure. Their grandiosity
+        and need for admiration are coping mechanisms to mask fragile self-esteem and unresolved feelings of shame
+        or inadequacy. This internal instability makes them highly sensitive to criticism, easily threatened, and
+        prone to manipulative or defensive behavior.
+      </p>
 
-    <section>
-  <h2>The Insecure Core</h2>
-  <p>
-    Beneath the surface, narcissists are not as self-assured as they appear. Their inflated ego often serves
-    to protect a fragile inner world filled with insecurity, self-doubt, and an intense fear of being exposed
-    as inadequate. This vulnerability is rarely visible — even to the narcissist themselves — because it’s
-    buried beneath layers of defensiveness, denial, and projection.
-  </p>
-  <p>
-    This internal fragility makes them hypersensitive to rejection or criticism, no matter how minor. As a result,
-    they may lash out, blame others, or distort reality to preserve their fragile self-image. Their behavior is not
-    driven by strength, but by the fear of being seen as weak or unworthy.
-  </p>
-</section>
-
-
-
+      <section>
+        <h2>The Insecure Core</h2>
+        <p>
+          Beneath the surface, narcissists are not as self-assured as they appear. Their inflated ego often serves
+          to protect a fragile inner world filled with insecurity, self-doubt, and an intense fear of being exposed
+          as inadequate. This vulnerability is rarely visible — even to the narcissist themselves — because it’s
+          buried beneath layers of defensiveness, denial, and projection.
+        </p>
+        <p>
+          This internal fragility makes them hypersensitive to rejection or criticism, no matter how minor. As a result,
+          they may lash out, blame others, or distort reality to preserve their fragile self-image. Their behavior is not
+          driven by strength, but by the fear of being seen as weak or unworthy.
+        </p>
+      </section>
 
       {/* Causes of Narcissism */}
       <section>
@@ -58,11 +56,10 @@ const Narcissism = () => {
         </p>
 
         <p>
-        In many cases, narcissistic traits develop as a psychological shield against deep-seated insecurity or emotional
-        neglect. The grandiose self-image they construct becomes a way to protect themselves from painful feelings
-        of worthlessness, vulnerability, or abandonment that may have taken root early in life.
+          In many cases, narcissistic traits develop as a psychological shield against deep-seated insecurity or emotional
+          neglect. The grandiose self-image they construct becomes a way to protect themselves from painful feelings
+          of worthlessness, vulnerability, or abandonment that may have taken root early in life.
         </p>
-
 
         <h3>2. Parenting Styles</h3>
         <p>
@@ -82,7 +79,6 @@ const Narcissism = () => {
           behaviors by encouraging constant comparison, external validation, and curated personas.
         </p>
       </section>
-
 
       {/* Types of Narcissism */}
       <section>
@@ -110,8 +106,8 @@ const Narcissism = () => {
         </p>
       </section>
 
-    {/* Narcissistic Abuse Cycle */}
-    <section>
+      {/* Narcissistic Abuse Cycle */}
+      <section>
         <h2>Narcissistic Abuse Cycle</h2>
 
         <p>
@@ -147,70 +143,76 @@ const Narcissism = () => {
         <p>
           After the discard, some narcissists may re-enter the cycle through a process called
           <strong> “hoovering”</strong> — trying to draw the person back in, only to repeat the cycle.
+          {/* Add a link to the Hoovering page */}
+          <Link to="/topics/hoovering" style={{ textDecoration: 'underline', color: '#007bff' }}>
+            Learn more about hoovering here.
+          </Link>
         </p>
       </section>
 
-    {/* Can Narcissists Love? */}
-<section>
-  <h2>Can Narcissists Love?</h2>
-  <p>
-    One of the most painful realities for those in relationships with narcissists is the realization
-    that the narcissist may be emotionally incapable of genuine love. While narcissists may express
-    affection or claim to love others, their understanding of love is often transactional — based on
-    what they can gain from the relationship.
-  </p>
+      {/* Can Narcissists Love? */}
+      <section>
+        <h2>Can Narcissists Love?</h2>
+        <p>
+          One of the most painful realities for those in relationships with narcissists is the realization
+          that the narcissist may be emotionally incapable of genuine love. While narcissists may express
+          affection or claim to love others, their understanding of love is often transactional — based on
+          what they can gain from the relationship.
+        </p>
 
-  <p>
-    Because of their lack of empathy and deep emotional insecurity, narcissists typically struggle to
-    form authentic, mutual bonds. Their relationships often revolve around control, validation, and
-    admiration rather than emotional connection. They may mimic love during the idealization phase
-    (such as in love bombing), but this behavior usually serves their own needs rather than reflecting
-    true emotional intimacy.
-  </p>
+        <p>
+          Because of their lack of empathy and deep emotional insecurity, narcissists typically struggle to
+          form authentic, mutual bonds. Their relationships often revolve around control, validation, and
+          admiration rather than emotional connection. They may mimic love during the idealization phase
+          (such as in love bombing), but this behavior usually serves their own needs rather than reflecting
+          true emotional intimacy.
+        </p>
 
-  <p>
-    This emotional limitation makes it difficult for narcissists to sustain healthy long-term
-    relationships, as they often view people as tools for self-enhancement rather than as equals with
-    feelings and needs of their own.
-  </p>
-</section>
+        <p>
+          This emotional limitation makes it difficult for narcissists to sustain healthy long-term
+          relationships, as they often view people as tools for self-enhancement rather than as equals with
+          feelings and needs of their own.
+        </p>
+      </section>
 
-{/* Narcissism and Aging */}
-<section>
-  <h2>Narcissism and Aging</h2>
-  <p>
-    Aging can be particularly challenging for narcissists. As they grow older, many of the qualities
-    they rely on — physical appearance, career status, social influence — begin to fade. This can lead
-    to a profound identity crisis, as their self-worth is often externally defined.
-  </p>
+      {/* Narcissism and Aging */}
+      <section>
+        <h2>Narcissism and Aging</h2>
+        <p>
+          Aging can be particularly challenging for narcissists. As they grow older, many of the qualities
+          they rely on — physical appearance, career status, social influence — begin to fade. This can lead
+          to a profound identity crisis, as their self-worth is often externally defined.
+        </p>
 
-  <p>
-    Some narcissists become increasingly bitter, isolated, or depressed as their ability to attract
-    admiration declines. They may struggle with rage, jealousy, or a heightened sense of victimhood.
-    Others may double down on manipulative behaviors in a desperate attempt to regain control or
-    attention.
-  </p>
+        <p>
+          Some narcissists become increasingly bitter, isolated, or depressed as their ability to attract
+          admiration declines. They may struggle with rage, jealousy, or a heightened sense of victimhood.
+          Others may double down on manipulative behaviors in a desperate attempt to regain control or
+          attention.
+        </p>
 
-  <p>
-    In rare cases, a narcissist may gain some self-awareness later in life, especially if faced with
-    major losses, loneliness, or mental health struggles. However, true change is difficult without
-    consistent therapeutic intervention — and many remain emotionally rigid and resistant to
-    introspection.
-  </p>
+        <p>
+          In rare cases, a narcissist may gain some self-awareness later in life, especially if faced with
+          major losses, loneliness, or mental health struggles. However, true change is difficult without
+          consistent therapeutic intervention — and many remain emotionally rigid and resistant to
+          introspection.
+        </p>
 
-  <p>
-    Ultimately, aging often exposes the emotional emptiness behind the narcissistic façade, leading
-    to increased psychological distress and diminished relationships.
-  </p>
-</section>
+        <p>
+          Ultimately, aging often exposes the emotional emptiness behind the narcissistic façade, leading
+          to increased psychological distress and diminished relationships.
+        </p>
+      </section>
 
-<section className="quote-section">
+      {/* Quote Section */}
+      <section className="quote-section">
         <blockquote>
-        “You can't water plastic flowers and expect them to grow. Some people simply don't have what you're looking for.”
-        — Unknown
+          “You can't water plastic flowers and expect them to grow. Some people simply don't have what you're looking for.”
+          — Unknown
         </blockquote>
       </section>
 
+      
     </div>
   );
 };
