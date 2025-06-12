@@ -44,25 +44,39 @@ const SexandNarcissism = () => {
       <section>
   <h2>Controlling Sex in Narcissistic Relationships</h2>
   <p>
-    In many narcissistic or manipulative relationships, sex becomes a method of control rather than a mutual expression
-    of intimacy. It’s used not as a way to connect, but as a way to dominate, destabilize, or punish. Over time, the
-    victim may stop seeing sex as an act of love and instead experience it as a form of emotional bargaining or
-    performance.
+    In many narcissistic or manipulative relationships, sex becomes a tool of power rather than a mutual act of love or
+    connection. It is often used to destabilize, punish, or dominate — not to nurture intimacy. Over time, the partner may
+    stop feeling safe or valued, and instead experience sex as a performance they must endure to maintain peace or avoid rejection.
   </p>
 
-  <p>Some common patterns include:</p>
+  <p>Common controlling behaviors include:</p>
   <ul>
-    <li><strong>Withholding sex:</strong> Used to punish, assert power, or induce insecurity. The partner may feel like they're constantly trying to "earn" affection.</li>
-    <li><strong>Demanding sex:</strong> Expecting sex on command, regardless of the partner's emotional or physical state — and framing rejection as betrayal or disrespect.</li>
-    <li><strong>Using guilt or obligation:</strong> Suggesting the partner "owes" them sex, or framing it as proof of love, loyalty, or forgiveness.</li>
-    <li><strong>Degrading fantasies:</strong> Introducing sexual behaviors that are meant to humiliate or erode the partner's boundaries.</li>
-    <li><strong>Jealousy-driven behavior:</strong> Accusing the partner of cheating, withholding sex, or comparing them to others to create shame or desperation.</li>
+    <li><strong>Withholding sex:</strong> Used as punishment or emotional leverage. The narcissist may suddenly go cold or
+      ignore their partner’s needs to create insecurity or a sense of failure.</li>
+
+    <li><strong>Demanding sex:</strong> Expecting sex on demand, regardless of the partner’s emotional or physical readiness.
+      Rejection is often met with guilt-tripping, anger, or accusations of being unloving.</li>
+
+    <li><strong>Using guilt or obligation:</strong> Suggesting the partner “owes” them sex as proof of loyalty, love, or forgiveness —
+      even after mistreatment or arguments.</li>
+
+    <li><strong>Degrading behavior during sex:</strong> Some narcissists introduce fantasies or language meant to humiliate rather than connect.
+      This might include name-calling (e.g., “slut,” “useless”), mocking the partner’s body or performance, or forcing participation in acts
+      the partner has clearly declined. These are framed as “jokes,” “kinks,” or "just sex," but they chip away at dignity and emotional safety.</li>
+
+    <li><strong>Violating consent:</strong> Pushing boundaries after a “no,” recording intimate moments without permission,
+      or coercing acts under emotional pressure. In some cases, they may use the threat of exposure as a form of control.</li>
+
+    <li><strong>Weaponizing jealousy:</strong> Flirting with others, comparing the partner to exes, or hinting that others would be “more fun”
+      in bed — all to create insecurity and compliance.</li>
   </ul>
 
   <p>
-    This dynamic is rarely about desire — it's about dominance. The narcissist seeks to feel powerful, irreplaceable, and in control. Meanwhile, the partner often feels confused, objectified, or emotionally unsafe.
+    These patterns are not about sexual desire — they’re about dominance and emotional control. Over time, the partner may feel used,
+    disconnected from their body, and unsure of what’s “normal.” This kind of psychological erosion is often invisible but deeply damaging.
   </p>
 </section>
+
 
 
       <section>
