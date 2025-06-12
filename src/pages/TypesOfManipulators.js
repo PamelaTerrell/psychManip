@@ -62,6 +62,14 @@ const TypesOfManipulators = () => {
           Keep in mind that manipulators may exhibit traits from multiple types or shift their tactics as needed.
         </p>
       </section>
+
+      <section className="quote-section">
+        <blockquote>
+        “Manipulators wear many masks—but their goal is always the same: to bend you to their will while hiding their true intent.”
+        </blockquote>
+      </section>
+    
+
     </div>
   );
 };
