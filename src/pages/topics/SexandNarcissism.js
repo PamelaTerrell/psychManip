@@ -42,6 +42,30 @@ const SexandNarcissism = () => {
       </section>
 
       <section>
+  <h2>Controlling Sex in Narcissistic Relationships</h2>
+  <p>
+    In many narcissistic or manipulative relationships, sex becomes a method of control rather than a mutual expression
+    of intimacy. It’s used not as a way to connect, but as a way to dominate, destabilize, or punish. Over time, the
+    victim may stop seeing sex as an act of love and instead experience it as a form of emotional bargaining or
+    performance.
+  </p>
+
+  <p>Some common patterns include:</p>
+  <ul>
+    <li><strong>Withholding sex:</strong> Used to punish, assert power, or induce insecurity. The partner may feel like they're constantly trying to "earn" affection.</li>
+    <li><strong>Demanding sex:</strong> Expecting sex on command, regardless of the partner's emotional or physical state — and framing rejection as betrayal or disrespect.</li>
+    <li><strong>Using guilt or obligation:</strong> Suggesting the partner "owes" them sex, or framing it as proof of love, loyalty, or forgiveness.</li>
+    <li><strong>Degrading fantasies:</strong> Introducing sexual behaviors that are meant to humiliate or erode the partner's boundaries.</li>
+    <li><strong>Jealousy-driven behavior:</strong> Accusing the partner of cheating, withholding sex, or comparing them to others to create shame or desperation.</li>
+  </ul>
+
+  <p>
+    This dynamic is rarely about desire — it's about dominance. The narcissist seeks to feel powerful, irreplaceable, and in control. Meanwhile, the partner often feels confused, objectified, or emotionally unsafe.
+  </p>
+</section>
+
+
+      <section>
         <h2>The Impact on the Survivor</h2>
         <p>
           Being sexually or emotionally intimate with a narcissist can leave lasting scars. You may feel:
