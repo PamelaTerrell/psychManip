@@ -3,6 +3,20 @@ import { Link } from 'react-router-dom';
 import './Home.css';
 
 const Home = () => {
+  // Function to log click on the secret link
+  const handleSecretLinkClick = async () => {
+    try {
+      await fetch('/api/log-hidden-click', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+    } catch (error) {
+      console.error('Failed to log secret link click', error);
+    }
+  };
+
   return (
     <div className="home-container">
       {/* Hero Section */}
@@ -67,7 +81,13 @@ const Home = () => {
 
       {/* Secret link for narcissists */}
       <div className="secret-link">
-        <Link to="/message">What if you see yourself in this?</Link>
+        <Link
+          to="/message"
+          onClick={handleSecretLinkClick}
+          style={{ textDecoration: 'underline dotted', color: '#555' }}
+        >
+          What if you see yourself in this?
+        </Link>
       </div>
 
       {/* Featured Topics Section */}
