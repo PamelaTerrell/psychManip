@@ -17,6 +17,7 @@ import Hoovering from './pages/topics/Hoovering';
 import SexandNarcissism from './pages/topics/SexandNarcissism';
 import TypesOfManipulators from './pages/TypesOfManipulators';
 
+import Footer from './components/Footer';
 
 import './App.css';
 
@@ -30,8 +31,6 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/topics" element={<Topics />} />
 
-         
-
           <Route path="/topics/narcissism" element={<Narcissism />} />
           <Route path="/topics/gaslighting" element={<Gaslighting />} />
           <Route path="/topics/trauma-bonding" element={<TraumaBonding />} />
@@ -42,10 +41,9 @@ function App() {
           <Route path="/message" element={<Message />} />
           <Route path="/topics/triangulation" element={<Triangulation />} />
           <Route path="/types-of-manipulators" element={<TypesOfManipulators />} />
-
-
         </Routes>
       </div>
+      <Footer />
     </Router>
   );
 }
