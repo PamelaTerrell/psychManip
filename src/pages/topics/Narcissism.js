@@ -107,7 +107,7 @@ const Narcissism = () => {
 
   <h3>Luring</h3>
   <p>
-    Narcissists often use luring tactics to emotionally draw their targets in. This may include excessive charm, flattery, gifts, or feigned vulnerability designed to quickly build trust and dependency. These tactics create a strong emotional bond, making it easier for the narcissist to manipulate and control their victim later.
+    Narcissists often use luring and hooking tactics to emotionally draw their targets in. This may include excessive charm, flattery, gifts, or feigned vulnerability designed to quickly build trust and dependency. These tactics create a strong emotional bond, making it easier for the narcissist to manipulate and control their victim later.
   </p>
 
   <h3>1. Love Bombing</h3>
