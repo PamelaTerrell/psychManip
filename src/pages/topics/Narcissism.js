@@ -7,9 +7,9 @@ const Narcissism = () => {
       <h1>Narcissism</h1>
 
       <p>
-        Narcissism is a personality trait characterized by an inflated sense of self-importance,
-        a deep need for admiration, and a lack of empathy for others. In its extreme form, it is
-        clinically recognized as Narcissistic Personality Disorder (NPD).
+        Narcissism describes a personality trait involving an inflated sense of self-importance,
+        a deep need for admiration, and a lack of empathy for others. In its clinical form, it is
+        recognized as Narcissistic Personality Disorder (NPD), a diagnosable mental health condition.
       </p>
 
       <p>
@@ -19,7 +19,7 @@ const Narcissism = () => {
 
       <p>
         Despite their outward confidence or entitlement, narcissists are often deeply insecure. Their grandiosity
-        and need for admiration are coping mechanisms to mask fragile self-esteem and unresolved feelings of shame
+        and need for admiration serve as coping mechanisms to mask fragile self-esteem and unresolved feelings of shame
         or inadequacy. This internal instability makes them highly sensitive to criticism, easily threatened, and
         prone to manipulative or defensive behavior.
       </p>
@@ -27,8 +27,8 @@ const Narcissism = () => {
       <section>
         <h2>The Insecure Core</h2>
         <p>
-          Beneath the surface, narcissists are not as self-assured as they appear. Their inflated ego often serves
-          to protect a fragile inner world filled with insecurity, self-doubt, and an intense fear of being exposed
+          Beneath the surface, narcissists are not as self-assured as they appear. Their inflated ego often protects
+          a fragile inner world filled with insecurity, self-doubt, and an intense fear of being exposed
           as inadequate. This vulnerability is rarely visible — even to the narcissist themselves — because it’s
           buried beneath layers of defensiveness, denial, and projection.
         </p>
@@ -39,56 +39,48 @@ const Narcissism = () => {
         </p>
       </section>
 
-      {/* Causes of Narcissism */}
       <section>
         <h2>Causes of Narcissism</h2>
 
         <p>
-          Narcissism is believed to arise from a complex interplay of genetic, environmental, and psychological factors.
-          While not every person with narcissistic traits has Narcissistic Personality Disorder, understanding the origins
-          of the behavior can provide insight into its development.
+          Narcissism arises from a complex interplay of genetic, environmental, and psychological factors.
+          While not everyone with narcissistic traits has Narcissistic Personality Disorder, understanding the origins
+          of these behaviors can provide valuable insight.
         </p>
 
         <h3>1. Childhood Environment</h3>
         <p>
-          Early childhood experiences, such as neglect or excessive praise, can shape narcissistic traits. These responses
-          may develop as a coping mechanism to manage deep-seated insecurity or low self-worth.
-        </p>
-
-        <p>
-          In many cases, narcissistic traits develop as a psychological shield against deep-seated insecurity or emotional
-          neglect. The grandiose self-image they construct becomes a way to protect themselves from painful feelings
-          of worthlessness, vulnerability, or abandonment that may have taken root early in life.
+          Early childhood experiences, such as neglect or excessive praise, can contribute to the development of narcissistic traits. These responses
+          often function as coping mechanisms to manage deep-seated insecurity or low self-worth.
         </p>
 
         <h3>2. Parenting Styles</h3>
         <p>
-          Parenting that is overly indulgent or dismissive can foster a fragile sense of self that relies on external
-          validation, often manifesting as narcissism in adulthood.
+          Parenting that is overly indulgent or dismissive can foster a fragile sense of self reliant on external
+          validation, which may manifest as narcissism in adulthood.
         </p>
 
         <h3>3. Genetic and Biological Factors</h3>
         <p>
-          Some studies suggest that personality traits like narcissism may have a genetic basis. Brain imaging research
-          has also shown differences in areas related to empathy and self-regulation in individuals with high narcissistic traits.
+          Some research suggests personality traits like narcissism have a genetic component. Brain imaging studies
+          show differences in regions related to empathy and self-regulation among individuals with high narcissistic traits.
         </p>
 
         <h3>4. Social and Cultural Influences</h3>
         <p>
-          Modern culture often rewards self-promotion, competitiveness, and image. Social media can exacerbate narcissistic
+          Modern culture often rewards self-promotion, competitiveness, and image cultivation. Social media can amplify narcissistic
           behaviors by encouraging constant comparison, external validation, and curated personas.
         </p>
       </section>
 
-      {/* Types of Narcissism */}
       <section>
         <h2>Types of Narcissism</h2>
 
         <h3>1. Grandiose Narcissism</h3>
         <p>
           This type is what most people typically associate with narcissism. Individuals with grandiose narcissism are
-          often confident, charismatic, and self-assured. They tend to seek admiration, assert dominance, and feel superior
-          to others. They may be charming but are often insensitive and exploitative in relationships.
+          often confident, charismatic, and self-assured. They seek admiration, assert dominance, and feel superior
+          to others. While often charming, they may be insensitive and exploitative in relationships.
         </p>
 
         <h3>2. Vulnerable (Covert) Narcissism</h3>
@@ -100,119 +92,84 @@ const Narcissism = () => {
 
         <h3>3. Malignant Narcissism</h3>
         <p>
-          Malignant narcissism is considered a more severe and destructive form. It combines traits of narcissism with
+          Malignant narcissism is considered a more severe and destructive form. It combines narcissistic traits with
           antisocial behavior, aggression, and paranoia. Individuals with malignant narcissism can be manipulative,
-          vindictive, and lacking in remorse, and may intentionally cause harm to others.
+          vindictive, and lack remorse, often intentionally causing harm to others.
         </p>
       </section>
 
-      {/* Narcissistic Abuse Cycle */}
       <section>
         <h2>Narcissistic Abuse Cycle</h2>
 
         <p>
-          Narcissists often engage in a recurring pattern of emotional abuse that manipulates their
-          partners or close contacts. This cycle can be confusing and psychologically damaging for
-          the person on the receiving end. It typically includes the following phases:
+          Narcissists often engage in recurring patterns of emotional abuse to manipulate partners or close contacts. This cycle can be confusing and psychologically damaging. It typically includes:
         </p>
 
         <h3>1. Love Bombing</h3>
         <p>
-          In the early stages of a relationship, narcissists often overwhelm their target with
-          affection, compliments, gifts, and constant attention. This intense flattery creates a
-          false sense of emotional intimacy and quickly builds trust and dependency. It can feel like
-          a “fairy tale” relationship — but it's often a setup for control.
+          Early in relationships, narcissists overwhelm targets with affection, compliments, gifts, and constant attention. This intense flattery creates a
+          false sense of intimacy and quickly builds trust and dependency — often setting the stage for control.
         </p>
 
         <h3>2. Devaluation</h3>
         <p>
-          Once the narcissist feels they’ve secured your affection or loyalty, their behavior shifts.
-          They may begin to criticize, belittle, or emotionally withdraw. Subtle manipulations like
-          gaslighting, silent treatment, or unpredictable mood changes erode the target’s self-esteem.
-          The goal is to destabilize and weaken the other person's sense of identity and self-worth.
+          After securing affection or loyalty, the narcissist’s behavior shifts. They may criticize, belittle, or emotionally withdraw. Tactics like gaslighting, silent treatment, and mood swings erode the target’s self-esteem, destabilizing their identity and self-worth.
         </p>
 
         <h3>3. Discard</h3>
         <p>
-          Eventually, the narcissist may abruptly abandon the relationship — often with cold
-          indifference — when they no longer see value in the other person, or when they find a new
-          source of validation. In some cases, the discard is done cruelly or publicly to inflict
-          maximum pain. This phase leaves the victim confused and emotionally devastated.
+          Eventually, the narcissist may abruptly abandon the relationship — often coldly — when they no longer find value or seek new validation. This discard can be cruel or public, leaving the victim confused and devastated.
         </p>
 
         <p>
-          After the discard, some narcissists may re-enter the cycle through a process called
-          <strong> “hoovering”</strong> — trying to draw the person back in, only to repeat the cycle.
-          {/* Add a link to the Hoovering page */}
+          Some narcissists re-enter the cycle through <strong>“hoovering”</strong>, trying to draw the person back in only to repeat the pattern.{' '}
           <Link to="/topics/hoovering" style={{ textDecoration: 'underline', color: '#007bff' }}>
             Learn more about hoovering here.
           </Link>
         </p>
       </section>
 
-      {/* Can Narcissists Love? */}
       <section>
         <h2>Can Narcissists Love?</h2>
         <p>
-          One of the most painful realities for those in relationships with narcissists is the realization
-          that the narcissist may be emotionally incapable of genuine love. While narcissists may express
-          affection or claim to love others, their understanding of love is often transactional — based on
+          Narcissists may express affection or claim love, but their understanding of love is often transactional — based on
           what they can gain from the relationship.
         </p>
 
         <p>
-          Because of their lack of empathy and deep emotional insecurity, narcissists typically struggle to
-          form authentic, mutual bonds. Their relationships often revolve around control, validation, and
-          admiration rather than emotional connection. They may mimic love during the idealization phase
-          (such as in love bombing), but this behavior usually serves their own needs rather than reflecting
-          true emotional intimacy.
+          Due to their lack of empathy and deep insecurity, narcissists struggle to form authentic, mutual bonds. Relationships often revolve around control, validation, and admiration, rather than emotional connection. They may mimic love during idealization (e.g., love bombing), but this typically serves their own needs rather than genuine intimacy.
         </p>
 
         <p>
-          This emotional limitation makes it difficult for narcissists to sustain healthy long-term
-          relationships, as they often view people as tools for self-enhancement rather than as equals with
-          feelings and needs of their own.
+          This emotional limitation makes sustaining healthy, long-term relationships difficult, as narcissists tend to view others as tools for self-enhancement rather than equals with feelings and needs.
         </p>
       </section>
 
-      {/* Narcissism and Aging */}
       <section>
         <h2>Narcissism and Aging</h2>
         <p>
-          Aging can be particularly challenging for narcissists. As they grow older, many of the qualities
-          they rely on — physical appearance, career status, social influence — begin to fade. This can lead
-          to a profound identity crisis, as their self-worth is often externally defined.
+          Aging can be challenging for narcissists as qualities they rely on — physical appearance, career status, social influence — begin to fade, potentially triggering identity crises.
         </p>
 
         <p>
-          Some narcissists become increasingly bitter, isolated, or depressed as their ability to attract
-          admiration declines. They may struggle with rage, jealousy, or a heightened sense of victimhood.
-          Others may double down on manipulative behaviors in a desperate attempt to regain control or
-          attention.
+          Some may become bitter, isolated, or depressed as their ability to attract admiration declines. They might experience rage, jealousy, or victimhood, or intensify manipulative behaviors in attempts to regain control or attention.
         </p>
 
         <p>
-          In rare cases, a narcissist may gain some self-awareness later in life, especially if faced with
-          major losses, loneliness, or mental health struggles. However, true change is difficult without
-          consistent therapeutic intervention — and many remain emotionally rigid and resistant to
-          introspection.
+          In rare cases, narcissists may gain self-awareness later in life, especially after major losses or mental health struggles. However, true change is difficult without consistent therapy, and many remain resistant to introspection.
         </p>
 
         <p>
-          Ultimately, aging often exposes the emotional emptiness behind the narcissistic façade, leading
-          to increased psychological distress and diminished relationships.
+          Ultimately, aging can expose the emotional emptiness behind the narcissistic façade, leading to increased distress and diminished relationships.
         </p>
       </section>
 
-      {/* Quote Section */}
       <section className="quote-section">
         <blockquote>
           “You can't water plastic flowers and expect them to grow. Some people simply don't have what you're looking for.”
           — Unknown
         </blockquote>
       </section>
-
-      
     </div>
   );
 };
