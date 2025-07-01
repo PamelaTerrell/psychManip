@@ -99,35 +99,43 @@ const Narcissism = () => {
       </section>
 
       <section>
-        <h2>Narcissistic Abuse Cycle</h2>
+  <h2>Narcissistic Abuse Cycle</h2>
 
-        <p>
-          Narcissists often engage in recurring patterns of emotional abuse to manipulate partners or close contacts. This cycle can be confusing and psychologically damaging. It typically includes:
-        </p>
+  <p>
+    Narcissists often engage in recurring patterns of emotional abuse to manipulate partners or close contacts. This cycle can be confusing and psychologically damaging. It typically includes:
+  </p>
 
-        <h3>1. Love Bombing</h3>
-        <p>
-          Early in relationships, narcissists overwhelm targets with affection, compliments, gifts, and constant attention. This intense flattery creates a
-          false sense of intimacy and quickly builds trust and dependency — often setting the stage for control.
-        </p>
+  <h3>Luring</h3>
+  <p>
+    Narcissists often use luring tactics to emotionally draw their targets in. This may include excessive charm, flattery, gifts, or feigned vulnerability designed to quickly build trust and dependency. These tactics create a strong emotional bond, making it easier for the narcissist to manipulate and control their victim later.
+  </p>
 
-        <h3>2. Devaluation</h3>
-        <p>
-          After securing affection or loyalty, the narcissist’s behavior shifts. They may criticize, belittle, or emotionally withdraw. Tactics like gaslighting, silent treatment, and mood swings erode the target’s self-esteem, destabilizing their identity and self-worth.
-        </p>
+  <h3>1. Love Bombing</h3>
+  <p>
+    Early in relationships, narcissists overwhelm targets with affection, compliments, gifts, and constant attention. This intense flattery creates a
+    false sense of intimacy and quickly builds trust and dependency — often setting the stage for control.
+  </p>
 
-        <h3>3. Discard</h3>
-        <p>
-          Eventually, the narcissist may abruptly abandon the relationship — often coldly — when they no longer find value or seek new validation. This discard can be cruel or public, leaving the victim confused and devastated.
-        </p>
+  <h3>2. Devaluation</h3>
+  <p>
+    After securing affection or loyalty, the narcissist’s behavior shifts. They may criticize, belittle, or emotionally withdraw. Tactics like gaslighting, silent treatment, and mood swings erode the target’s self-esteem, destabilizing their identity and self-worth.
+  </p>
 
-        <p>
-          Some narcissists re-enter the cycle through <strong>“hoovering”</strong>, trying to draw the person back in only to repeat the pattern.{' '}
-          <Link to="/topics/hoovering" style={{ textDecoration: 'underline', color: '#007bff' }}>
-            Learn more about hoovering here.
-          </Link>
-        </p>
-      </section>
+  <h3>3. Discard</h3>
+  <p>
+    Eventually, the narcissist may abruptly abandon the relationship — often coldly — when they no longer find value or seek new validation. This discard can be cruel or public, leaving the victim confused and devastated.
+  </p>
+
+  <p>
+    Some narcissists re-enter the cycle through <strong>“hoovering”</strong>, trying to draw the person back in only to repeat the pattern.{' '}
+    <Link to="/topics/hoovering" style={{ textDecoration: 'underline', color: '#007bff' }}>
+      Learn more about hoovering here.
+    </Link>
+  </p>
+</section>
+
+
+        
 
       <section>
         <h2>Can Narcissists Love?</h2>
