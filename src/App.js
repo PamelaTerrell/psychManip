@@ -31,7 +31,6 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/topics" element={<Topics />} />
-
           <Route path="/topics/narcissism" element={<Narcissism />} />
           <Route path="/topics/gaslighting" element={<Gaslighting />} />
           <Route path="/topics/trauma-bonding" element={<TraumaBonding />} />
@@ -45,6 +44,9 @@ function App() {
         </Routes>
       </div>
       <Footer />
+
+      {/* ✅ Add this line here to enable analytics */}
+      <Analytics />
     </Router>
   );
 }
