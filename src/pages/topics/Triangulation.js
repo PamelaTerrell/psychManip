@@ -32,6 +32,15 @@ const Triangulation = () => {
         <li>Boost their own ego by making others feel replaceable or less desirable</li>
       </ul>
 
+      <h2>Reverse Discard and Triangulation</h2>
+      <p>
+        A narcissist may use triangulation as part of a <strong>reverse discard</strong>—a covert tactic to get their partner to end the relationship so the narcissist can avoid taking responsibility. By creating emotional chaos, constant drama, or provoking jealousy through a third party, the narcissist may intentionally sabotage the relationship to appear as the victim or the one who was “left behind.”
+      </p>
+
+      <p>
+        This tactic allows the narcissist to preserve their public image, quickly move on to a new source of supply, and avoid accountability. Triangulation, in this context, becomes a tool to push the partner toward emotional exhaustion and eventual departure.
+      </p>
+
       <h2>Examples of Triangulation</h2>
       <ul>
         <li>A partner frequently brings up an ex in a romantic or idealized way to make you feel like you’re not enough.</li>
@@ -50,6 +59,16 @@ const Triangulation = () => {
         <li>Excluded from conversations or denied clarification when confused</li>
         <li>Gaslit when you try to express discomfort (“You’re imagining things”)</li>
       </ul>
+
+      <h2>Drama as a Tool to End the Relationship</h2>
+      <p>
+        In some cases, a narcissist will manufacture drama and conflict through triangulation to pressure their partner into leaving. This may involve constant fighting, confusing mixed signals, or introducing a new person into the dynamic. The goal is to erode the partner's sense of stability and peace, making them more likely to give up on the relationship—allowing the narcissist to avoid blame while painting themselves as the wronged party.
+      </p>
+
+      <h2>Self-Preservation and Financial Maneuvering</h2>
+      <p>
+        A narcissist may also attempt to insulate themselves from financial fallout by strategically removing themselves from shared ventures, businesses, or joint responsibilities—often while continuing to create personal chaos. This calculated detachment is not altruistic; it’s designed to protect their resources, avoid consequences, and maintain control while discarding emotional or relational obligations.
+      </p>
 
       <h2>A Brief Example</h2>
       <p>
@@ -83,11 +102,10 @@ const Triangulation = () => {
 
       <section className="quote-section">
         <blockquote>
-        “You’ll never understand how someone could do this to you, because you would never do it to them.”
-        — Unknown
+          “You’ll never understand how someone could do this to you, because you would never do it to them.”<br />
+          — Unknown
         </blockquote>
       </section>
-
     </div>
   );
 };
