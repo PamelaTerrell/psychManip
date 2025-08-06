@@ -70,10 +70,7 @@ const Triangulation = () => {
         A narcissist may also attempt to insulate themselves from financial fallout by strategically removing themselves from shared ventures, businesses, or joint responsibilities—often while continuing to create personal chaos. This calculated detachment is not altruistic; it’s designed to protect their resources, avoid consequences, and maintain control while discarding emotional or relational obligations.
       </p>
 
-      <h2>A Brief Example</h2>
-      <p>
-        Maria was in a relationship with Alex, who often mentioned his “perfect” ex, saying things like, “She never complained about my job.” When Maria expressed hurt, Alex accused her of insecurity. Meanwhile, he told a mutual friend that Maria was becoming overly emotional and hard to deal with. The friend unknowingly began siding with Alex, leaving Maria isolated and confused about her own reactions.
-      </p>
+      
 
       <h2>Effects on the Target and the Third Party</h2>
       <p>
