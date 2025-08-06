@@ -17,7 +17,7 @@ import Triangulation from './pages/topics/Triangulation';
 import Hoovering from './pages/topics/Hoovering';
 import SexandNarcissism from './pages/topics/SexandNarcissism';
 import TypesOfManipulators from './pages/TypesOfManipulators';
-import Limerence from './pages/Limerence';
+import Limerence from './pages/topics/Limerence';
 
 import Footer from './components/Footer';
 

@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default function Limerence() {
+const Limerence = () => {
   return (
     <div className="topic-page">
       <h1>Limerence</h1>
@@ -72,3 +72,5 @@ export default function Limerence() {
     </div>
   );
 }
+
+export default Limerence;

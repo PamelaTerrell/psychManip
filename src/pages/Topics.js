@@ -25,7 +25,7 @@ const Topics = () => {
         <Link to="/topics/hoovering" className="topic-card">Hoovering</Link> 
         <Link to="/topics/sex-and-narcissism" className="topic-card"> Sex and Intimacy with a Narcissist
         </Link>
-        <Link to="topics/limerence" className="topic-card">Limerence</Link>
+        <Link to="/topics/limerence" className="topic-card">Limerence</Link>
        
 
       </div>
