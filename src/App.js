@@ -17,6 +17,7 @@ import Triangulation from './pages/topics/Triangulation';
 import Hoovering from './pages/topics/Hoovering';
 import SexandNarcissism from './pages/topics/SexandNarcissism';
 import TypesOfManipulators from './pages/TypesOfManipulators';
+import Limerence from './pages/Limerence';
 
 import Footer from './components/Footer';
 
@@ -41,11 +42,12 @@ function App() {
           <Route path="/message" element={<Message />} />
           <Route path="/topics/triangulation" element={<Triangulation />} />
           <Route path="/types-of-manipulators" element={<TypesOfManipulators />} />
+          <Route path="/topics/limerence" element={<Limerence />} />
         </Routes>
       </div>
       <Footer />
 
-      {/* ✅ Add this line here to enable analytics */}
+      
       <Analytics />
     </Router>
   );

@@ -99,7 +99,8 @@ const Home = () => {
           <Link to="/topics/triangulation" className="topic-card">Triangulation</Link>
           <Link to="/topics/trauma-bonding" className="topic-card">Trauma Bonding</Link>
           <Link to="/topics/emotional-coercion" className="topic-card">Emotional Coercion</Link>
-          <Link to="/topics/hoovering" className="topic-card">Hoovering</Link> {/* New topic */}
+          <Link to="/topics/hoovering" className="topic-card">Hoovering</Link> 
+          <Link to="/topics/limerence" className="topic-card">Limerence</Link>
         </div>
       </section>
 
