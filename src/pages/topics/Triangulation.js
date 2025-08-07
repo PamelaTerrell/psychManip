@@ -1,15 +1,25 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const Triangulation = () => {
   return (
-    <div className="triangulation-page">
-      <h1>Triangulation in Romantic Relationships</h1>
+    <>
+      <Helmet>
+        <title>Triangulation in Romantic Relationships | Psychological Manipulation</title>
+        <meta
+          name="description"
+          content="Learn how triangulation is used in romantic relationships to provoke jealousy, create rivalry, or avoid direct communication—often resulting in emotional harm."
+        />
+      </Helmet>
 
-      <p>
-        Triangulation is a psychological manipulation tactic in which a person draws a third party into the relationship dynamic to control, divide, or destabilize others. In romantic relationships, it is frequently used to provoke jealousy, create rivalry, or avoid direct communication—often resulting in confusion, emotional harm, and dependency.
-      </p>
+      <div className="triangulation-page">
+        <h1>Triangulation in Romantic Relationships</h1>
 
-      <h2>What Does Triangulation Look Like?</h2>
+        <p>
+          Triangulation is a psychological manipulation tactic in which a person draws a third party into the relationship dynamic to control, divide, or destabilize others. In romantic relationships, it is frequently used to provoke jealousy, create rivalry, or avoid direct communication—often resulting in confusion, emotional harm, and dependency.
+        </p>
+
+        <h2>What Does Triangulation Look Like?</h2>
       <p>
         In romantic relationships—particularly those involving narcissistic behavior—triangulation occurs when a third person is intentionally drawn into the dynamic. This third party may be an ex-partner, a friend, a colleague, or even a family member. The narcissist uses this person to create tension, provoke jealousy, or validate their own perspective, subtly or overtly shifting the power dynamic in the relationship.
       </p>
@@ -104,6 +114,7 @@ const Triangulation = () => {
         </blockquote>
       </section>
     </div>
+    </>
   );
 };
 
