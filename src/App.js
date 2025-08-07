@@ -18,6 +18,7 @@ import Hoovering from './pages/topics/Hoovering';
 import SexandNarcissism from './pages/topics/SexandNarcissism';
 import TypesOfManipulators from './pages/TypesOfManipulators';
 import Limerence from './pages/topics/Limerence';
+import ScrollToTop from './components/ScrollToTop';
 
 import Footer from './components/Footer';
 
@@ -47,7 +48,7 @@ function App() {
       </div>
       <Footer />
 
-      
+      <ScrollToTop />
       <Analytics />
     </Router>
   );
