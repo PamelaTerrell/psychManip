@@ -1,12 +1,19 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import '../../App.css';
-
-
 import { FaExclamationTriangle, FaUserSlash, FaSadTear, FaHandsHelping, FaBrain } from 'react-icons/fa';
 
 const EmotionalCoercion = () => {
   return (
     <div className="topic-page">
+      <Helmet>
+        <title>Emotional Coercion | Recognizing Subtle Control Tactics</title>
+        <meta
+          name="description"
+          content="Understand emotional coercion—how manipulation, guilt, and fear are used to control others in toxic relationships. Learn signs and how to protect yourself."
+        />
+      </Helmet>
+
       <h1>Emotional Coercion</h1>
       <p>
         Emotional coercion involves using fear, guilt, shame, or obligation to control another person's

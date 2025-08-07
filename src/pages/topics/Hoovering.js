@@ -1,9 +1,17 @@
 import React from 'react';
-//import './Hoovering.css'; // Optional for styling
+import { Helmet } from 'react-helmet';
 
 const Hoovering = () => {
   return (
     <div className="topic-content">
+      <Helmet>
+        <title>Hoovering in Narcissistic Abuse | Understanding Manipulative Tactics</title>
+        <meta
+          name="description"
+          content="Learn what hoovering is in the context of narcissistic abuse. Understand how abusers use manipulation to regain control after a breakup or distancing."
+        />
+      </Helmet>
+
       <h1>What is Hoovering?</h1>
       <p>
         Hoovering is a manipulation tactic often used by narcissists, sociopaths, and other toxic individuals to "suck" their victim back into a relationship or situation after they have attempted to break free or distance themselves. The term comes from the idea of a vacuum cleaner "hoovering" someone back into a toxic environment, much like how a vacuum sucks up dirt or debris. In this case, the emotional and psychological state of the victim is what gets pulled back in.
@@ -79,6 +87,7 @@ const Hoovering = () => {
         <li><strong>Trust Your Instincts:</strong> If you feel something is off or you sense manipulation, trust that feeling. Narcissists often use hoovering to confuse and gaslight their victims, so it’s important to rely on your intuition and past experiences.</li>
       </ul>
     </div>
+    
   );
 };
 

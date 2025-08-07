@@ -1,9 +1,21 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
+import '../../App.css';
+
 
 const Gaslighting = () => {
   return (
     <div className="topic-page">
+      <Helmet>
+        <title>Gaslighting | Recognize and Resist Manipulative Tactics</title>
+        <meta
+          name="description"
+          content="Gaslighting is a form of psychological manipulation that makes someone question their reality. Learn the signs, impact, and how to protect yourself."
+        />
+      </Helmet>
+
       <h1>Gaslighting</h1>
+
       <p>
         Gaslighting is a form of psychological manipulation where a person or group causes someone to
         question their memory, perception, or sanity. It’s a tactic frequently used in emotionally

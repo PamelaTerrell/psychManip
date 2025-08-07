@@ -1,9 +1,19 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const TraumaBonding = () => {
   return (
-    <div className="topic-page">
-      <h1>Trauma Bonding</h1>
+    <>
+      <Helmet>
+        <title>Trauma Bonding | Emotional Abuse & Attachment</title>
+        <meta
+          name="description"
+          content="Understand trauma bonding—why people stay in emotionally abusive relationships, how manipulation creates unhealthy attachment, and steps toward healing."
+        />
+      </Helmet>
+
+      <div className="topic-page">
+        <h1>Trauma Bonding</h1>
 
       <p>
         Trauma bonding refers to the emotional attachment formed between an abuser and their victim
@@ -96,6 +106,7 @@ const TraumaBonding = () => {
 
 
     </div>
+    </>
   );
 };
 

@@ -1,9 +1,18 @@
 import React from 'react';
-
+import { Helmet } from 'react-helmet';
+import '../../App.css';
 
 const SexandNarcissism = () => {
   return (
     <div className="topic-page">
+      <Helmet>
+        <title>Sex and Intimacy with a Narcissist | Recognizing Emotional Manipulation</title>
+        <meta
+          name="description"
+          content="Understand how narcissists use sex and intimacy to control, manipulate, or degrade partners. Learn the signs, emotional consequences, and how to heal."
+        />
+      </Helmet>
+
       <h1>Sex and Intimacy with a Narcissist</h1>
 
       <p>
@@ -42,42 +51,28 @@ const SexandNarcissism = () => {
       </section>
 
       <section>
-  <h2>Controlling Sex in Narcissistic Relationships</h2>
-  <p>
-    In many narcissistic or manipulative relationships, sex becomes a tool of power rather than a mutual act of love or
-    connection. It is often used to destabilize, punish, or dominate — not to nurture intimacy. Over time, the partner may
-    stop feeling safe or valued, and instead experience sex as a performance they must endure to maintain peace or avoid rejection.
-  </p>
+        <h2>Controlling Sex in Narcissistic Relationships</h2>
+        <p>
+          In many narcissistic or manipulative relationships, sex becomes a tool of power rather than a mutual act of love or
+          connection. It is often used to destabilize, punish, or dominate — not to nurture intimacy. Over time, the partner may
+          stop feeling safe or valued, and instead experience sex as a performance they must endure to maintain peace or avoid rejection.
+        </p>
 
-  <p>Common controlling behaviors include:</p>
-  <ul>
-    <li><strong>Withholding sex:</strong> Used as punishment or emotional leverage. The narcissist may suddenly go cold or
-      ignore their partner’s needs to create insecurity or a sense of failure.</li>
+        <p>Common controlling behaviors include:</p>
+        <ul>
+          <li><strong>Withholding sex:</strong> Used as punishment or emotional leverage. The narcissist may suddenly go cold or ignore their partner’s needs to create insecurity or a sense of failure.</li>
+          <li><strong>Demanding sex:</strong> Expecting sex on demand, regardless of the partner’s emotional or physical readiness. Rejection is often met with guilt-tripping, anger, or accusations of being unloving.</li>
+          <li><strong>Using guilt or obligation:</strong> Suggesting the partner “owes” them sex as proof of loyalty, love, or forgiveness — even after mistreatment or arguments.</li>
+          <li><strong>Degrading behavior during sex:</strong> Some narcissists introduce fantasies or language meant to humiliate rather than connect. This might include name-calling (e.g., “slut,” “useless”), mocking the partner’s body or performance, or forcing participation in acts the partner has clearly declined. These are framed as “jokes,” “kinks,” or "just sex," but they chip away at dignity and emotional safety.</li>
+          <li><strong>Violating consent:</strong> Pushing boundaries after a “no,” recording intimate moments without permission, or coercing acts under emotional pressure. In some cases, they may use the threat of exposure as a form of control.</li>
+          <li><strong>Weaponizing jealousy:</strong> Flirting with others, comparing the partner to exes, or hinting that others would be “more fun” in bed — all to create insecurity and compliance.</li>
+        </ul>
 
-    <li><strong>Demanding sex:</strong> Expecting sex on demand, regardless of the partner’s emotional or physical readiness.
-      Rejection is often met with guilt-tripping, anger, or accusations of being unloving.</li>
-
-    <li><strong>Using guilt or obligation:</strong> Suggesting the partner “owes” them sex as proof of loyalty, love, or forgiveness —
-      even after mistreatment or arguments.</li>
-
-    <li><strong>Degrading behavior during sex:</strong> Some narcissists introduce fantasies or language meant to humiliate rather than connect.
-      This might include name-calling (e.g., “slut,” “useless”), mocking the partner’s body or performance, or forcing participation in acts
-      the partner has clearly declined. These are framed as “jokes,” “kinks,” or "just sex," but they chip away at dignity and emotional safety.</li>
-
-    <li><strong>Violating consent:</strong> Pushing boundaries after a “no,” recording intimate moments without permission,
-      or coercing acts under emotional pressure. In some cases, they may use the threat of exposure as a form of control.</li>
-
-    <li><strong>Weaponizing jealousy:</strong> Flirting with others, comparing the partner to exes, or hinting that others would be “more fun”
-      in bed — all to create insecurity and compliance.</li>
-  </ul>
-
-  <p>
-    These patterns are not about sexual desire — they’re about dominance and emotional control. Over time, the partner may feel used,
-    disconnected from their body, and unsure of what’s “normal.” This kind of psychological erosion is often invisible but deeply damaging.
-  </p>
-</section>
-
-
+        <p>
+          These patterns are not about sexual desire — they’re about dominance and emotional control. Over time, the partner may feel used,
+          disconnected from their body, and unsure of what’s “normal.” This kind of psychological erosion is often invisible but deeply damaging.
+        </p>
+      </section>
 
       <section>
         <h2>The Impact on the Survivor</h2>
@@ -112,7 +107,7 @@ const SexandNarcissism = () => {
 
       <section className="quote-section">
         <blockquote>
-        “When intimacy is used as a weapon, it's not love — it's control.”
+          “When intimacy is used as a weapon, it's not love — it's control.”
         </blockquote>
       </section>
     </div>
