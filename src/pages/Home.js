@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 import './Home.css';
 
 const Home = () => {
-  // Function to log click on the secret link
   const handleSecretLinkClick = async () => {
     try {
       await fetch('/api/log-hidden-click', {
@@ -18,7 +18,16 @@ const Home = () => {
   };
 
   return (
-    <div className="home-container">
+    <>
+      <Helmet>
+        <title>Psychological Manipulation | Explore Narcissism, Gaslighting & More</title>
+        <meta
+          name="description"
+          content="A scholarly resource exploring narcissism, gaslighting, trauma bonding, and psychological control to help you recognize manipulation and protect yourself."
+        />
+      </Helmet>
+
+      <div className="home-container">
       {/* Hero Section */}
       <section className="hero">
         <h1>Psychological Manipulation</h1>
@@ -111,6 +120,7 @@ const Home = () => {
         </blockquote>
       </section>
     </div>
+    </>
   );
 };
 

@@ -1,10 +1,20 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 
 const Narcissism = () => {
   return (
-    <div className="topic-page">
-      <h1>Narcissism</h1>
+    <>
+      <Helmet>
+        <title>Narcissism in Relationships | Understanding Manipulation</title>
+        <meta
+          name="description"
+          content="Explore how narcissistic traits show up in relationships, including manipulation, control, and emotional abuse."
+        />
+      </Helmet>
+
+      <div className="topic-page">
+        <h1>Narcissism</h1>
 
       <p>
         Narcissism describes a personality trait involving an inflated sense of self-importance,
@@ -179,6 +189,7 @@ const Narcissism = () => {
         </blockquote>
       </section>
     </div>
+    </>
   );
 };
 
