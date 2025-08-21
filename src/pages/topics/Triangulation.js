@@ -39,6 +39,17 @@ const Triangulation = () => {
           conflict.
         </p>
 
+        <p>
+          In some cases, the manipulator lures in a third party by creating a false sense of
+          closeness. They may reminisce about a shared history, exaggerate emotional intimacy, or
+          suggest there is still a special bond. Once the third party responds, the manipulator
+          suddenly distances themselves—often making a dramatic show of “rejecting” the person. This
+          staged rejection is then flaunted to the targeted partner as proof of loyalty (“See, I
+          could have been with them, but I chose you”). In reality, the manipulator has used the
+          third party as nothing more than a prop—damaging the third person’s dignity while deepening
+          the target’s dependence and confusion.
+        </p>
+
         <h2>Why Do Manipulators Use Triangulation?</h2>
         <p>
           Triangulation is effective because it reinforces control, demands attention, and keeps
