@@ -79,6 +79,15 @@ const Triangulation = () => {
           <li>Gaslit when you express discomfort (“You’re imagining things”)</li>
         </ul>
 
+        <h2>Drama as a Tool to End the Relationship</h2>
+        <p>
+          In some cases, a manipulator will manufacture drama and conflict through triangulation to
+          pressure their partner into leaving. This may involve constant fighting, confusing mixed
+          signals, or introducing a new person into the dynamic. The goal is to erode the partner's
+          sense of stability and peace, making them more likely to give up on the relationship—allowing
+          the manipulator to avoid blame while painting themselves as the wronged party.
+        </p>
+
         <h2>Effects on the Target and the Third Party</h2>
         <p>
           For the targeted partner, triangulation creates anxiety, jealousy, shame, and deep
@@ -140,8 +149,8 @@ const Triangulation = () => {
 
         <section className="quote-section">
           <blockquote>
-            “Triangulation doesn’t just break one bond—it spreads mistrust until every connection is
-            weakened.”<br />
+            “You’ll never understand how someone could do this to you, because you would never do it
+            to them.”<br />
             — Unknown
           </blockquote>
         </section>
