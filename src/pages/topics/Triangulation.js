@@ -62,6 +62,44 @@ const Triangulation = () => {
           <li>Boost their ego by making others feel replaceable or less desirable</li>
         </ul>
 
+        <h2>Why Do They Do It? Motives Behind Triangulation</h2>
+        <p>
+          Research on jealousy induction, family-systems theory, and gaslighting suggests that
+          triangulation serves multiple potential aims. Its motives can shift depending on what
+          benefits the manipulator in the moment, but the consistent thread is the pursuit of power
+          rather than intimacy.<sup>[1–6]</sup>
+        </p>
+
+        <h3>Retention and Control</h3>
+        <p>
+          By provoking insecurity and comparison, the manipulator elicits monitoring,
+          reassurance-seeking, and compliance—behaviors that consolidate their control. This dynamic
+          aligns with studies of jealousy induction as a mate-retention strategy and with Bowen’s
+          concept of “triangles” as a way to stabilize tension by displacing it.<sup>[1–2,5]</sup>
+        </p>
+
+        <h3>Promoting Disengagement (“Reverse Discard”)</h3>
+        <p>
+          At other times, triangulation is used to exhaust the partner into leaving, a practice
+          sometimes referred to as a “reverse discard.” By generating conflict and introducing
+          outsiders, the manipulator ensures that when the relationship ends, the partner looks like
+          the one who gave up—allowing the manipulator to avoid blame while securing a narrative of
+          victimhood.<sup>[3,6]</sup>
+        </p>
+
+        <h3>Extraction of Sex, Attention, or Status</h3>
+        <p>
+          In some cases, the motive is resource extraction. The manipulator leverages triangulation
+          to gain sexual access, admiration, or attention from multiple people simultaneously. This
+          sustains their sense of power and ensures that both the target and the third party remain
+          emotionally invested.<sup>[1,4]</sup>
+        </p>
+
+        <p>
+          In summary, triangulation is not evidence of love or loyalty; it is a flexible
+          interpersonal strategy that consistently prioritizes control over connection.<sup>[2,5–6]</sup>
+        </p>
+
         <h2>Reverse Discard and Triangulation</h2>
         <p>
           Sometimes triangulation is used as part of a <strong>reverse discard</strong>—a tactic to
@@ -95,8 +133,8 @@ const Triangulation = () => {
           In some cases, a manipulator will manufacture drama and conflict through triangulation to
           pressure their partner into leaving. This may involve constant fighting, confusing mixed
           signals, or introducing a new person into the dynamic. The goal is to erode the partner's
-          sense of stability and peace, making them more likely to give up on the relationship—allowing
-          the manipulator to avoid blame while painting themselves as the wronged party.
+          sense of stability and peace, making them more likely to give up on the relationship—
+          allowing the manipulator to avoid blame while painting themselves as the wronged party.
         </p>
 
         <h2>Effects on the Target and the Third Party</h2>
@@ -165,6 +203,16 @@ const Triangulation = () => {
             — Unknown
           </blockquote>
         </section>
+
+        <h2>References</h2>
+        <ol className="text-sm leading-relaxed">
+          <li>Kaufman-Parks, A. M., et al. (2018). <em>Inducing jealousy and intimate partner violence among emerging adults</em>. Journal of Interpersonal Violence.</li>
+          <li>The Bowen Center. <em>Introduction to the Eight Concepts</em>; <em>Core Concepts & Diagrams</em> (Triangles).</li>
+          <li>Klein, W., et al. (2023). <em>A qualitative analysis of gaslighting in romantic relationships</em>. Personal Relationships.</li>
+          <li>Arnocky, S., et al. (2024). <em>An experimental test of jealousy’s evolved function</em>. Evolution and Human Behavior.</li>
+          <li>McCauley, D. M., et al. (2021). <em>Family and individual risk factors for triangulation</em>. Frontiers in Psychology.</li>
+          <li>Sweet, P. L. (2019). <em>The Sociology of Gaslighting</em>. American Sociological Review.</li>
+        </ol>
       </div>
     </>
   );
